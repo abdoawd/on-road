@@ -1,0 +1,106 @@
+<resources>
+    <string name="app_name">3al Treq</string>
+    <string name="title_activity_login">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="prompt_confirm_password">Confirm Password</string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+
+    <!-- Strings related to sign up -->
+    <string name="text_registration">Create account</string>
+    <string name="prompt_username">Username</string>
+    <string name="action_register">Register</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Strings related to Firebase Database Nodes -->
+    <string name="users_database_node">users</string>
+    <string name="trips_database_node">trips</string>
+
+    <!-- Strings related to Firebase Database Fields -->
+    <string name="trip_name">users</string>
+
+
+    <string name="resend_verification_email">Didn\'t get it? Resend verification <b>Email</b></string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="register">Register</string>
+    <string name="sign_in">Sign In</string>
+    <string name="password">Password</string>
+    <string name="tabian_consulting_logo">Tabian Consulting Logo</string>
+    <string name="email">Email</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="employee_dashboard">Employee Dashboard</string>
+    <string name="this_week_s_initiatives">This week\'s initiatives</string>
+    <string name="employee_schedule">Employee Schedule</string>
+    <string name="company_culture">Company Culture</string>
+    <string name="tabian_consulting_sales_chart">Tabian Consulting Sales Chart</string>
+    <string name="cancel">CANCEL</string>
+    <string name="confirm">CONFIRM</string>
+    <string name="reset_password">Reset Password</string>
+    <string name="sign_out">Sign out</string>
+    <string name="account_settings">Account Settings</string>
+    <string name="current_password">Current Password</string>
+    <string name="new_password">New Password</string>
+    <string name="confirm_new_password">Confirm New Password</string>
+    <string name="send_button_label">Send</string>
+    <string name="upcomming_string_key">Up Comming</string>
+    <string name="history_trips">History</string>
+    <string name="title_activity_main2">Main2Activity</string>
+
+    <string name="trip_lable">Trip Name : </string>
+    <string name="start_point">Start Point : </string>
+    <string name="end_point">End Point : </string>
+    <string name="button_start_trip">Start</string>
+
+    <!-- related to edit account-->
+    <string name="Edit_Profile">Edit Profile</string>
+    <string name="edit_photo">Edit Photo</string>
+
+    <!-- Strings related to fragments -->
+    <string name="upcoming_trips_fragment">Upcoming</string>
+    <string name="past_trips_fragment">Past</string>
+    <string name="canceled_trips_fragments">Canceled</string>
+
+    <!--Korany-->
+    <string name="Trip_prompt">Choose Status Of Trip</string>
+    <string-array name="Repetayion">
+
+        <item>Repeat Daily</item>
+        <item>Repeat weekly</item>
+        <item>Repeat Monthly</item>
+    </string-array>
+
+    <string name="Trip_prompt2">Choose type of trip</string>
+    <string-array name="Status">
+        <item>One Way Trip</item>
+        <item>Round Trip</item>
+    </string-array>
+
+    <string name="profile_lable">Profile</string>
+    <string name="log_out">Log Out</string>
+    <string name="sync">Sync</string>
+    <string name="text_dialog">Let\'s Start The Trip</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_history_trips_map_activty">Map</string>
+
+    <string name="title_menu_item_help_and_settings">Help &amp; Settings</string>
+    <string name="title_nav_account">Account</string>
+    <string name="title_nav_past_trips">Past Trips</string>
+    <string name="title_nav_sign_out">Sign out</string>
+</resources>
